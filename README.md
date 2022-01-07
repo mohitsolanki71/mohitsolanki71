@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Solanki</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsolanki71&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsolanki71" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **mohitsolanki071@gmail.com**
 
