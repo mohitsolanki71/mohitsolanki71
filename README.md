@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohit Solanki</h1>
-<h3 align="center">A passionate Full Stack Developement</h3>
+<h3 align="center">An efficient full-stack web
+developer with skills in HTML,
+CSS, JavaScript, and Tailwind. A
+self-motivated team worker
+looking to work in an
+organization where I can
+contribute my skills and grow in
+my career.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsolanki71&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsolanki71" /> </p>
 
